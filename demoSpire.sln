@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demoSpire", "demoSpire\demoSpire.csproj", "{323342EF-CADF-4CB0-8E8F-689CA60A4D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBilling", "DigitalBilling\DigitalBilling.csproj", "{C6C11050-2733-4497-9B11-D2BA26B50E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323342EF-CADF-4CB0-8E8F-689CA60A4D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323342EF-CADF-4CB0-8E8F-689CA60A4D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323342EF-CADF-4CB0-8E8F-689CA60A4D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323342EF-CADF-4CB0-8E8F-689CA60A4D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C11050-2733-4497-9B11-D2BA26B50E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C11050-2733-4497-9B11-D2BA26B50E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C11050-2733-4497-9B11-D2BA26B50E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C11050-2733-4497-9B11-D2BA26B50E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B6673C-A105-4EE0-8D82-37E1AF10179C}
+	EndGlobalSection
+EndGlobal
